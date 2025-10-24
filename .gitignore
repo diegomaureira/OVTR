@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+ovtr/results/
+models/
+model_zoo/
